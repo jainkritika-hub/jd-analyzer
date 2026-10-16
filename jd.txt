@@ -1,0 +1,17 @@
+Python Developer - AI Applications
+Acme Tech, Noida (Hybrid)
+Full-time
+
+We are looking for a Python developer with 2+ years of experience to build LLM-powered tools.
+
+You will:
+- Build REST APIs using FastAPI or Django
+- Create agents and RAG pipelines with LangChain
+- Write tests and maintain documentation
+
+Requirements:
+- Strong Python
+- Experience with REST APIs and SQL
+- Familiarity with LangChain
+
+Good to have: Docker, AWS, LangGraph

@@ -1,0 +1,28 @@
+{
+  "job_title": "Python Developer - AI Applications",
+  "company": "Acme Tech",
+  "location": "Noida (Hybrid)",
+  "employment_type": "Full-time",
+  "min_experience_years": 2,
+  "required_skills": [
+    "Python",
+    "FastAPI",
+    "Django",
+    "REST APIs",
+    "SQL",
+    "LangChain",
+    "testing",
+    "documentation"
+  ],
+  "nice_to_have_skills": [
+    "Docker",
+    "AWS",
+    "LangGraph"
+  ],
+  "responsibilities": [
+    "Build REST APIs using FastAPI or Django",
+    "Create agents and RAG pipelines with LangChain",
+    "Write tests and maintain documentation"
+  ],
+  "summary": "Python developer to build LLM-powered tools, creating REST APIs, LangChain agents, and maintaining tests and documentation."
+}
